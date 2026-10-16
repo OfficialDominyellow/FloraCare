@@ -1,0 +1,6 @@
+{
+  "name": "FloraCare - AI 식물 도감 & 가드닝 닥터",
+  "description": "사진 한 장으로 식물 종류를 인식하고 상세한 맞춤형 케어 가이드와 건강 진단, 다중 턴 AI 식물 챗봇 상담을 제공하는 스마트 가드닝 어시스턴트입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
